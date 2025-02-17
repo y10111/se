@@ -1,5 +1,7 @@
 # 2.  HTML初体验
 
+例如：
+
 ```html preview
 <!DOCTYPE html>
 <html lang="zh-CN">
